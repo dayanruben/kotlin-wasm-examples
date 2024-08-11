@@ -12,7 +12,7 @@ Each example includes the source code and a `README.md` file explaining how to b
 
 These are the Kotlin/Wasm examples you can try:
 
-* **[Compose example](https://github.com/Kotlin/kotlin-wasm-compose-template/blob/main/README.md)** — A simple Compose Multiplatform application template
+* **[Compose example](https://github.com/Kotlin/kotlin-wasm-compose-template/#readme)** — A simple Compose Multiplatform application template
 * **[Compose Jetsnack](https://github.com/JetBrains/compose-multiplatform/blob/master/examples/jetsnack/README.md)** — Web version of a [Jetsnack application](https://github.com/android/compose-samples/tree/main/Jetsnack) built with Compose Multiplatform
 * **[Compose image viewer](https://github.com/JetBrains/compose-multiplatform/blob/master/examples/imageviewer/README.md)** — Web version of an image viewer application built with Compose Multiplatform
 * **[Browser example](https://github.com/Kotlin/kotlin-wasm-browser-template/blob/main/README.md)** — A simple application showing "Hello World" in the browser using DOM API
