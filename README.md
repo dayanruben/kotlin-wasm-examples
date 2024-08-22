@@ -12,21 +12,13 @@ Each example includes the source code and a `README.md` file explaining how to b
 
 These are the Kotlin/Wasm examples you can try:
 
-* **[Compose example](compose-example/README.md)** — A simple Compose Multiplatform application template
-* **[Compose Jetsnack](compose-jetsnack/README.md)** — Web version of a [Jetsnack application](https://github.com/android/compose-samples/tree/main/Jetsnack) built with Compose Multiplatform
-* **[Compose image viewer](compose-imageviewer/README.md)** — Web version of an image viewer application built with Compose Multiplatform
-* **[Browser example](browser-example/README.md)** — A simple application showing "Hello World" in the browser using DOM API
-* **[Node.js example](nodejs-example/README.md)** — A simple application printing "Hello World" in Node.js
-* **[KoWasm](https://github.com/kowasm/kowasm)** — Server-side and full stack development with Kotlin and WebAssembly leveraging WASI and Component Model
-* **[WASI example](wasi-example/README.md)** — A simple application using WASI API in Node.js and Deno
-
-## Build and run
-
-To build and run an example, follow these steps:
-
-1. Clone this repository.
-2. Navigate to the directory of the example you want to build and run.
-3. Follow the instructions in the `README.md` file of the example you want to build and run.
+* **[Compose example](https://github.com/Kotlin/kotlin-wasm-compose-template/#readme)** — A simple Compose Multiplatform application template
+* **[Compose Jetsnack](https://github.com/JetBrains/compose-multiplatform/tree/master/examples/jetsnack/#readme)** — Web version of a [Jetsnack application](https://github.com/android/compose-samples/tree/main/Jetsnack) built with Compose Multiplatform
+* **[Compose image viewer](https://github.com/JetBrains/compose-multiplatform/tree/master/examples/imageviewer/#readme)** — Web version of an image viewer application built with Compose Multiplatform
+* **[Browser example](https://github.com/Kotlin/kotlin-wasm-browser-template/#readme)** — A simple application showing "Hello World" in the browser using DOM API
+* **[Node.js example](https://github.com/Kotlin/kotlin-wasm-nodejs-template/#readme)** — A simple application printing "Hello World" in Node.js
+* **[KoWasm](https://github.com/kowasm/kowasm/#readme)** — Server-side and full stack development with Kotlin and WebAssembly leveraging WASI and Component Model
+* **[WASI example](https://github.com/Kotlin/kotlin-wasm-wasi-template/#readme)** — A simple application using WASI API in Node.js and Deno
 
 ## Feedback and questions
 
