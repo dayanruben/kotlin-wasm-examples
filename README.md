@@ -19,6 +19,7 @@ These are the Kotlin/Wasm examples you can try:
 * **[Node.js example](https://github.com/Kotlin/kotlin-wasm-nodejs-template/#readme)** — A simple application printing "Hello World" in Node.js
 * **[KoWasm](https://github.com/kowasm/kowasm/#readme)** — Server-side and full stack development with Kotlin and WebAssembly leveraging WASI and Component Model
 * **[WASI example](https://github.com/Kotlin/kotlin-wasm-wasi-template/#readme)** — A simple application using WASI API in Node.js and Deno
+* **[KotlinWasm-C interop example](https://github.com/Kotlin/kotlin-wasm-examples/blob/main/browser-c-interop-example/#readme)** — A simple application using KotlinWasm and C interop
 
 ## Feedback and questions
 
