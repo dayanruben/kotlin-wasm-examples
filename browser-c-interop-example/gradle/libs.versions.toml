@@ -1,0 +1,9 @@
+[versions]
+kotlin = "2.2.10"
+browser = "0.3"
+
+[plugins]
+kotlin-multiplatform = { id = "org.jetbrains.kotlin.multiplatform", version.ref = "kotlin" }
+
+[libraries]
+browser = { module = "org.jetbrains.kotlinx:kotlinx-browser", version.ref = "browser" }
